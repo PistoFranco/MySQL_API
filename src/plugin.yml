@@ -1,0 +1,4 @@
+name: MySQL_API
+version: 1.0
+author: PistoFranco
+main: me.pistofranco.mysql_api.Core
